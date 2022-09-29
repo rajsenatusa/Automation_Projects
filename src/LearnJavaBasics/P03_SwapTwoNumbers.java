@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class SwapTwoNumbers {
+public class P03_SwapTwoNumbers {
 
 	public static void main(String[] args) {
 		//before swap a= 10 ; b=20

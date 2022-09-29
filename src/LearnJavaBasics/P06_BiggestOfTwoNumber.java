@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class BiggestOfTwoNumber {
+public class P06_BiggestOfTwoNumber {
 
 	public static void main(String[] args) {
 		int FirstNumber =10;

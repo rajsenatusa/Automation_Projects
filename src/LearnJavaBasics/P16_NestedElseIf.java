@@ -1,10 +1,10 @@
 package LearnJavaBasics;
 
-public class NestedElseIf {
+public class P16_NestedElseIf {
 
 	public static void main(String[] args) {
 
-		int day=20;
+		int day=5;
 		
 		if (day == 1)
 		{

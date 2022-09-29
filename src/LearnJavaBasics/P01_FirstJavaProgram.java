@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class FirstJavaProgram {
+public class P01_FirstJavaProgram {
 
 	public static void main(String[] args) {
 			

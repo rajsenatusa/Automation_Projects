@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class EvenOrOdd {
+public class P05_EvenOrOdd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

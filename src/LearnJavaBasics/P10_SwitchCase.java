@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class SwitchCase {
+public class P10_SwitchCase {
 
 	public static void main(String[] args) {
 		int day = 3;

@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class ifElseCondition {
+public class P07_ifElseCondition {
 
 	public static void main(String[] args) {
 

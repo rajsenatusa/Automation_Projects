@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class DataTypesPrograms {
+public class P04_DataTypesPrograms {
 
 	public static void main(String[] args) {
 

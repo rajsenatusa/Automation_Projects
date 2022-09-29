@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class OperatorPrograms {
+public class P02_OperatorPrograms {
 
 	public static void main(String[] args) {
 
