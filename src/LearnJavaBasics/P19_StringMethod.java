@@ -1,6 +1,6 @@
 package LearnJavaBasics;
 
-public class P18_StringMethod {
+public class P19_StringMethod {
 
 	public static void main(String[] args) {
 
