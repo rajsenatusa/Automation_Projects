@@ -1,6 +1,9 @@
-package LearnJavaBasics;
+package Overloading;
 
 public class calculations {
+	
+	
+	// This program is a example to explain the constructors
 	
 	int numberOne, numberTwo, numberThree;
 	
@@ -21,8 +24,7 @@ public class calculations {
 		
 		calculations calc = new calculations (600, 600, 600);
 		calc.sum();
-		
-		
+			
 	}
 
 }
